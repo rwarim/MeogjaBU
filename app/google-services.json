@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "511240986599",
+    "firebase_url": "https://meogjabu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "meogjabu",
+    "storage_bucket": "meogjabu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511240986599:android:64a8a2707b9600af532742",
+        "android_client_info": {
+          "package_name": "com.example.meogja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02GASaK9-a0Bkp-jFcpNaaSVh-S3r3V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511240986599:android:e80dcd1a8657894b532742",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02GASaK9-a0Bkp-jFcpNaaSVh-S3r3V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511240986599:android:92308922e490977e532742",
+        "android_client_info": {
+          "package_name": "com.iteyes.placesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02GASaK9-a0Bkp-jFcpNaaSVh-S3r3V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511240986599-75vakev859hglpl9ai7i9ll5tum3h2k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
